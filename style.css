@@ -62,7 +62,7 @@ body {
 
 .nft-description {
   color: hsl(215, 51%, 70%);
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   margin-left: 5px;
   text-align: left;
   line-height: 1.5rem;
@@ -131,4 +131,5 @@ hr {
   color: hsl(215, 51%, 70%);
 
 }
+
 
