@@ -45,7 +45,7 @@ body {
 
 .image-box:hover .hover-img {
   opacity: 0.5;
-  background: hsl(178, 100%, 50%);
+  background-color: hsl(178, 100%, 50%);
 }
 
 .nft-name {
@@ -62,7 +62,7 @@ body {
 
 .nft-description {
   color: hsl(215, 51%, 70%);
-  font-weight: 1.8rem;
+  font-size: 1.8rem;
   margin-left: 5px;
   text-align: left;
   line-height: 1.5rem;
@@ -123,10 +123,11 @@ hr {
   cursor: pointer;
 }
 
-#highlight {
+.highlight {
   color: white;
 }
 
-#highlight:hover {
+.highlight:hover {
   color: hsl(215, 51%, 70%);
+
 }
